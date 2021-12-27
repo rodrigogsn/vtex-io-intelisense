@@ -4,15 +4,51 @@ All notable changes to the "vtexio-intellisense" extension will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.2.5] - 2021-12-22
+
+### Fixed
+
+- grid's blocks prop
+
+## [0.2.4] - 2021-12-20
+
+### Fixed
+
+- fix input snippets
+
+### Added
+
+- description for title
+- product installments schema
+
+## [0.2.3] - 2021-12-16
+
+### Fixed
+
+- missed prop `title` for blocks
+
+## [0.2.2] - 2021-12-16
+
+### Fixed
+
+- fix image block key match
+
 ## [0.2.1] - 2021-12-16
+
+### Added
 
 - add description for prop values
 - schema `properties` (alongside `patternProperties`)
 
 ## [0.1.5] - 2021-12-15
 
+### Added
+
 - add autocomplete `apps.json` from edition apps
 - add new prop to `slider-layout`
+
+### Fixed
+
 - fix block's conflict props recommendations
 
 ## [0.1.4] - 2021-12-13
